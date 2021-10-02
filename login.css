@@ -1,0 +1,56 @@
+body{
+    background: #eae9e5;
+}
+.login_form,
+.signup_form {
+    background: #fff;
+    margin-top: 20%;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 36px 5px rgba(0, 0, 0, 0.28);
+
+}
+h2{
+    text-align: center;
+    padding-bottom: 5px;
+    font-family: "Montserrat-Bold";
+    font-size: 2rem;
+    line-height: 1.5;
+    color: #8f8f8f;
+}
+.form-control{
+    border-radius: 25px;
+}
+label{
+    font-size: 12px;
+}
+.btn{
+    background: #64562d;
+    color: white;
+    box-shadow: 0px 1px 36px 5px rgba(0, 0, 0, 0.2);
+}
+.ctn{
+    text-align: center;
+    margin-top: 7%;
+    
+}
+.ctnsign{
+    text-align: center;
+    margin-top: 1%;
+    
+}
+.social-icon {
+    margin: 20px 10px;
+  }
+.mp{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+}
+a{
+    color: #00376b;
+}
+.vers{
+    margin-top: 15px;
+    text-align: center;
+}
